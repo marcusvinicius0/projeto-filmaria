@@ -12,14 +12,14 @@ Desenvolvido a fins de fixar e entender melhor conceitos do react-router-dom, co
 
 
 ### Tecnologias usadas:
-<a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">React</a>;
+<a href="https://pt-br.reactjs.org/docs/getting-started.html" target="blank">React</a>;
 <br>
 <br>
 
 
 ## 🤝 Colaboradores
 
-<a href="https://www.linkedin.com/in/marcusviniciusbeghelisantos/" target="_blank">Marcus Vinícius</a><br>
+<a href="https://www.linkedin.com/in/marcusviniciusbeghelisantos/" target="blank">Marcus Vinícius</a><br>
 
 
 
