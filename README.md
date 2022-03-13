@@ -13,6 +13,9 @@ Desenvolvido a fins de fixar e entender melhor conceitos do react-router-dom, co
 
 ### Tecnologias usadas:
 <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="blank">React</a>;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="blank">JavaScript</a>;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank">HTML</a>;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">CSS</a>;
 <br>
 <br>
 
