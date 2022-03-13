@@ -5,7 +5,7 @@
 
 
 >◾ Projeto Filmaria <br>
-Desenvolvido a fins de fixar e entender melhor conceitos do react-router-dom, components, requisições de API do back-end e condicionais. Além das práticas de juntar css, html e javascript.
+Desenvolvido a fins de fixar e entender melhor conceitos do react-router-dom, components, requisições de API do back-end e condicionais. Além de utilizar jsx.
  
 
 
