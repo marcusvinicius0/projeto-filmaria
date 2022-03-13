@@ -12,7 +12,7 @@ Desenvolvido a fins de fixar e entender melhor conceitos do react-router-dom, co
 
 
 ### Tecnologias usadas:
-<a href="https://pt-br.reactjs.org/docs/getting-started.html">React</a>
+<a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">React</a>;
 <br>
 <br>
 
